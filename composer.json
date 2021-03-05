@@ -1,7 +1,7 @@
 {
-    "name": "kata/php",
-    "description": "PHP Kata skeleton",
-    "keywords": ["kata","TDD"],
+    "name": "sebacarrasco93/updated-php-kata",
+    "description": "Updated PHP Kata Skeleton",
+    "keywords": ["updated","kata","TDD"],
     "homepage": "https://github.com/carlosbuenosvinos/php-kata",
     "type": "library",
     "license": "MIT",
@@ -9,6 +9,10 @@
         {
             "name": "Carlos Buenosvinos",
             "email": "hi@carlos.io"
+        },
+        {
+            "name": "Seba Carrasco",
+            "email": "sebacarrasco93@gmail.com"
         }
     ],
     "autoload": {

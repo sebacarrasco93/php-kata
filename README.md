@@ -1,6 +1,9 @@
 kata/php
 ========
 
+[Original project](https://github.com/carlosbuenosvinos/php-kata)
+
+
 PHP skeleton for doing coding katas
 -----------------------------------
 
